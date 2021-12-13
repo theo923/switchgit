@@ -13,7 +13,7 @@ WPN=your workplace user.name
 WPM=your workplace user.email
 
 
-##Environmental Variables:
+## Environmental Variables:
 
 place the switchgit.bat to C:\user\USERNAME\AppData\Local\Batch\ or any path you want
 
