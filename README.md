@@ -1,8 +1,8 @@
 ## How to use
 
-use txt editor to open the bat file
+Use txt editor to open the bat file
 
-make changes for the following parameters:
+Make changes for the following parameters:
 
 PN=your personal user.name
 
@@ -15,10 +15,10 @@ WPM=your workplace user.email
 
 ## Environmental Variables:
 
-place the switchgit.bat to C:\user\USERNAME\AppData\Local\Batch\ or any path you want
+Place the switchgit.bat to C:\user\USERNAME\AppData\Local\Batch\ or any path you want
 
-open your control panel > user > user account > environmental variable > Path > modify > add C:\user\USERNAME\AppData\Local\Batch\ to it
+Open your control panel > user > user account > environmental variable > Path > modify > add C:\user\USERNAME\AppData\Local\Batch\ to it
 
-You may also need reboot to make it works
+You may also need a reboot to make it works
 
 Then you can open the console and type switchgit to run it
